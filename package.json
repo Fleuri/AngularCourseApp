@@ -1,0 +1,20 @@
+{
+  "name": "angularcourseapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fleuri/AngularCourseApp.git"
+  },
+  "author": "Lauri Suomalainen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fleuri/AngularCourseApp/issues"
+  },
+  "homepage": "https://github.com/Fleuri/AngularCourseApp#readme",
+  "dependencies": {}
+}
